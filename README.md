@@ -1,6 +1,7 @@
 This is a repository of lore for the codebase, that can be referenced in pulls if you want to start from some common base
 
 
+
 # What This Is Not
 
 This is not an exhaustive effort to catalog the universe of SS13 in great detail, as with Baystation. Rather, it is a collection of ideas and starting points for you to use IC with other players to generate interesting conversations and events. It is as close to canonical lore as you will get for the /tg/station codebase, however people are not required to use this lore, nor are maintainers bound to it.
